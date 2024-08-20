@@ -14,8 +14,9 @@ The application would be developed in my GitHub rep[ositry which the link would 
 
 ## Usage
 
-GitHub: 
+GitHub: https://github.com/Gunther0662/Notebook-Tracker
 
+![screenshot](image.png)
 
 ## Lincense
 
